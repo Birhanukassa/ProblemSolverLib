@@ -1,5 +1,4 @@
-# Project Name
-ProblemSolverLib
+# ProblemSolverLib
 
 ## Description
 
