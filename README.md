@@ -15,10 +15,10 @@ This project is a collection of general solutions to various coding problems, pr
 To install this library, use the following command:
 
 ```bash
-npm install [library-name]
+npm install ProblemSolverLib 
 ```
 ```js
-const utils = require('[library-name]');
+const utils = require('[ProblemSolverLib]');
 
 // Use the utilities here
 ```
